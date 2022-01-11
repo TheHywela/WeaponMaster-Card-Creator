@@ -13,4 +13,24 @@ MonoBehaviour:
   m_Name: HalbirdDeck
   m_EditorClassIdentifier: 
   deckTitle: HD
-  cards: []
+  cards:
+  - {fileID: 11400000, guid: 173b5f803e95fa145aeaf04059827cf2, type: 2}
+  - {fileID: 11400000, guid: 870570afb9061bf49b4d136301c9feea, type: 2}
+  - {fileID: 11400000, guid: f3c3d4e87de277b468a456374310c02d, type: 2}
+  - {fileID: 11400000, guid: 46e410ed6e7ede34e9ec59d6e487c581, type: 2}
+  - {fileID: 11400000, guid: 142a6ce517b056a48a53b4fcce8b8d43, type: 2}
+  - {fileID: 11400000, guid: c096f98a33cf26946b772a37adb71e75, type: 2}
+  - {fileID: 11400000, guid: 90092212c516c5747b4e0c849bc05a6c, type: 2}
+  - {fileID: 11400000, guid: faf5a2308ad75d94ba507112c2c66c7f, type: 2}
+  - {fileID: 11400000, guid: 891a85dd160826243adfe1ed851c4da1, type: 2}
+  - {fileID: 11400000, guid: 7dd775efc16ecd146aa016b90418c81f, type: 2}
+  - {fileID: 11400000, guid: 6c65cd740c0cf3c4ebecbc2f445f71de, type: 2}
+  - {fileID: 11400000, guid: 77004aab9ac1a1941b95d2eff1386bef, type: 2}
+  - {fileID: 11400000, guid: 33029bcc109b6b049beddf69a70233ec, type: 2}
+  - {fileID: 11400000, guid: 5a70539a6f2468c449ed95209d1ee053, type: 2}
+  - {fileID: 11400000, guid: 3e5d1277b3515bb45b690eabcb4ae64a, type: 2}
+  - {fileID: 11400000, guid: 0876b702e53cc8748b47ee3d8ce472d9, type: 2}
+  - {fileID: 11400000, guid: af82c693080ceca4eb29736f8b6877ea, type: 2}
+  - {fileID: 11400000, guid: 710da869a2f65614baa4e244611dd709, type: 2}
+  - {fileID: 11400000, guid: 81b4b47a720353c4c9552b984a088955, type: 2}
+  - {fileID: 11400000, guid: 189c15dce160de74ab25d7f65130c99e, type: 2}

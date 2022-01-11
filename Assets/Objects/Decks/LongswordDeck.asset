@@ -13,4 +13,24 @@ MonoBehaviour:
   m_Name: LongswordDeck
   m_EditorClassIdentifier: 
   deckTitle: LSD
-  cards: []
+  cards:
+  - {fileID: 11400000, guid: 0c2d932b7d3429141aa90c057adf138d, type: 2}
+  - {fileID: 11400000, guid: 7e6d32218de692e4794297ecfc00464b, type: 2}
+  - {fileID: 11400000, guid: e91b79205e32d0b49ba8f77148915b73, type: 2}
+  - {fileID: 11400000, guid: 77c1d9d1fcc61c0438ff04fed4d36ba7, type: 2}
+  - {fileID: 11400000, guid: 7efd9f04616068a4689b29582e372ded, type: 2}
+  - {fileID: 11400000, guid: 2f7ef09a8631dd74a9d21ebb04bc1e6b, type: 2}
+  - {fileID: 11400000, guid: 4e7663e8626eb9241a019244e8e920fd, type: 2}
+  - {fileID: 11400000, guid: 7bfff6e4f8cc8a54186de2f1ecb10a36, type: 2}
+  - {fileID: 11400000, guid: 7115548f084f95e4a9b2eac7a2609f05, type: 2}
+  - {fileID: 11400000, guid: a53cc491326e6fd44a3abd7132410ded, type: 2}
+  - {fileID: 11400000, guid: 98d17f91c146e974bbbbe4becefdee5f, type: 2}
+  - {fileID: 11400000, guid: c16569630e8ef3741bbf732f95e7082c, type: 2}
+  - {fileID: 11400000, guid: 0c11995fde8b17e4bb4ff0303effe679, type: 2}
+  - {fileID: 11400000, guid: 4b00fc465676f8f48b2df4df7ba7be08, type: 2}
+  - {fileID: 11400000, guid: 6458d594d0534de458c10f5201566781, type: 2}
+  - {fileID: 11400000, guid: 47c43b1ebe83df74693b5b86a1626318, type: 2}
+  - {fileID: 11400000, guid: e7adf4c496b4826488177d760195ceea, type: 2}
+  - {fileID: 11400000, guid: 710da869a2f65614baa4e244611dd709, type: 2}
+  - {fileID: 11400000, guid: 189c15dce160de74ab25d7f65130c99e, type: 2}
+  - {fileID: 11400000, guid: 81b4b47a720353c4c9552b984a088955, type: 2}
