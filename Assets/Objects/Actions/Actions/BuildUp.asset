@@ -18,4 +18,4 @@ MonoBehaviour:
   cost: 0
   speed: 10
   description: Gain 2 momentum.
-  referenceImage: {fileID: 0}
+  referenceImage: {fileID: 21300000, guid: 329633d272d96a44c85f35f90e9ea5de, type: 3}

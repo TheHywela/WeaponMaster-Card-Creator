@@ -13,4 +13,7 @@ MonoBehaviour:
   m_Name: SabreDeck
   m_EditorClassIdentifier: 
   deckTitle: SED
-  cards: []
+  cards:
+  - {fileID: 11400000, guid: f77807e9d4f1a474c8d1552e87a37c39, type: 2}
+  - {fileID: 11400000, guid: f18070cf67271cf45848f86325fa26e3, type: 2}
+  - {fileID: 11400000, guid: 835b99819c8e15a47bd4c070196fc241, type: 2}

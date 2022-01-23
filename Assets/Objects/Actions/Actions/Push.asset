@@ -19,4 +19,4 @@ MonoBehaviour:
   speed: 7
   description: Move the opponent 1 space. You must be next to your opponent to play
     this action.
-  referenceImage: {fileID: 0}
+  referenceImage: {fileID: 21300000, guid: 98704069c280beb46b172357f3829e77, type: 3}

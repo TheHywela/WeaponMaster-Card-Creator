@@ -19,7 +19,7 @@ public class CardController : MonoBehaviour
     public TextMeshProUGUI titleTop;
     public TextMeshProUGUI descriptionTop;
     public TextMeshProUGUI speedTop;
-    public Image iconTop;
+    public SpriteRenderer iconTop;
 
     [Header("Bottom Element")]
     public Image headerBottom;
@@ -28,7 +28,7 @@ public class CardController : MonoBehaviour
     public TextMeshProUGUI titleBottom;
     public TextMeshProUGUI descriptionBottom;
     public TextMeshProUGUI speedBottom;
-    public Image iconBottom;
+    public SpriteRenderer iconBottom;
 
 
     [Header("Colour Palatte")]
@@ -103,6 +103,8 @@ public class CardController : MonoBehaviour
         titleTop.text = card.topAction.title; ;
         descriptionTop.text = card.topAction.description;
         speedTop.text = card.topAction.speed;
+        iconTop.sprite = card.topAction.referenceImage;
+
 
 
         //Bottom Element
@@ -131,6 +133,7 @@ public class CardController : MonoBehaviour
         titleBottom.text = card.bottomAction.title; ;
         descriptionBottom.text = card.bottomAction.description;
         speedBottom.text = card.bottomAction.speed;
+        iconBottom.sprite = card.bottomAction.referenceImage;
     }
 
 }

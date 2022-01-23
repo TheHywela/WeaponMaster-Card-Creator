@@ -19,4 +19,4 @@ MonoBehaviour:
   speed: 8
   description: Place a Marked Token on a space next to your character. No one is
     allowed to enter this space for as long as this token is there.
-  referenceImage: {fileID: 0}
+  referenceImage: {fileID: 21300000, guid: af27b342cdd26b74f92bbf80475fcd81, type: 3}

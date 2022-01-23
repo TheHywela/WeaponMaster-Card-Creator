@@ -17,6 +17,6 @@ MonoBehaviour:
   title: Clash
   cost: 4
   speed: 10
-  description: If successful, a non-attack, non-parry action from your discard pile.
-    You must still spend the momentum cost for that action.
+  description: If successful, play a non-attack, non-parry action from your discard
+    pile. You must still spend the momentum cost for that action.
   referenceImage: {fileID: 0}

@@ -13,4 +13,7 @@ MonoBehaviour:
   m_Name: SwordBucklerDeck
   m_EditorClassIdentifier: 
   deckTitle: SBD
-  cards: []
+  cards:
+  - {fileID: 11400000, guid: 9aa750a0d141859449e1f60bece79ee9, type: 2}
+  - {fileID: 11400000, guid: 806ed72f2ab8fae4a978556a899e758d, type: 2}
+  - {fileID: 11400000, guid: a06ed7f4d6012e344acc6d9e5f0ace6a, type: 2}
