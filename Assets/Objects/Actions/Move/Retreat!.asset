@@ -15,7 +15,7 @@ MonoBehaviour:
   id: m-retreat
   actionType: 1
   title: Retreat!
-  cost: 2
+  cost: 5
   speed: 10
   description: Move 2 spaces. Draw 1 less card during the next draw phase
   referenceImage: {fileID: 21300000, guid: d30d63edc24b15f4b89c7f730b5e23bd, type: 3}

@@ -15,7 +15,7 @@ MonoBehaviour:
   id: at_charge
   actionType: 2
   title: Charge!
-  cost: 10
+  cost: 12
   speed: 2
   description: Move 2 spaces. If you land adjacent to your opponent. Make an attack
     after the opponent's action.

@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a1f3b337e75815e4d916c5f8187e403f, type: 3}
   m_Name: Quick Swipe
   m_EditorClassIdentifier: 
-  id: 
-  actionType: 0
+  id: at_quickswipe
+  actionType: 2
   title: Quick Swipe
   cost: 5
   speed: 6

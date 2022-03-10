@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Planned Step
   m_EditorClassIdentifier: 
   id: m_plannedstep
-  actionType: 0
+  actionType: 1
   title: Planned Step
   cost: 0
   speed: 2

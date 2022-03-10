@@ -2653,8 +2653,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6d36bb858330ba418bc94099171efb2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deckToPrint: {fileID: 11400000, guid: fd503f057d93b8f458d3f853d2568b03, type: 2}
-  printDirectory: /Output
+  deckToPrint: {fileID: 11400000, guid: 14a44ceb1b5cfe149a16c73500f5d14a, type: 2}
+  printDirectory: /Output/SwordBuckler
   camera: {fileID: 519420031}
   headerTop: {fileID: 254512306}
   actionTypeTop: {fileID: 438436016}

@@ -19,4 +19,4 @@ MonoBehaviour:
   speed: 10
   description: If successful. gain an intertia token, Spend it during the Reveal
     phase to lower the cost of an attack by 2 per token.
-  referenceImage: {fileID: 21300000, guid: 357c330312c0ffa4ea4e6fe0809812c1, type: 3}
+  referenceImage: {fileID: 21300000, guid: e1d5fd007ebb02249b1dba350fa25ad1, type: 3}

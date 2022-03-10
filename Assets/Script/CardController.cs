@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
@@ -7,6 +5,7 @@ using System.IO;
 
 public class CardController : MonoBehaviour
 {
+
     [Header("Card Components")]
     public Deck deckToPrint;
     public string printDirectory;
@@ -83,7 +82,7 @@ public class CardController : MonoBehaviour
         {
             case ACTION_TYPE.ACTION:
                 headerTop.color = actionColor;
-                actionTypeTop.text = "Action";
+                actionTypeTop.text = "Ability";
                 break;
             case ACTION_TYPE.ATTACK:
                 headerTop.color = attackColor;
@@ -105,15 +104,13 @@ public class CardController : MonoBehaviour
         speedTop.text = card.topAction.speed;
         iconTop.sprite = card.topAction.referenceImage;
 
-
-
         //Bottom Element
         //Card Header
         switch (card.bottomAction.actionType)
         {
             case ACTION_TYPE.ACTION:
                 headerBottom.color = actionColor;
-                actionTypeBottom.text = "Action";
+                actionTypeBottom.text = "Ability";
                 break;
             case ACTION_TYPE.ATTACK:
                 headerBottom.color = attackColor;
