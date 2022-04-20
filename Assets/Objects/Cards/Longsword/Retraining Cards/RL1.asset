@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61c3899fa38c95b4f87ffe0e593f34e9, type: 3}
+  m_Name: RL1
+  m_EditorClassIdentifier: 
+  id: 
+  weaponType: 2
+  topAction: {fileID: 11400000, guid: 710e3888d2441e44ca4b52f0173e77c3, type: 2}
+  bottomAction: {fileID: 11400000, guid: e43f53c461b607747b7678bf57f4ebc7, type: 2}

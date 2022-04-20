@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61c3899fa38c95b4f87ffe0e593f34e9, type: 3}
+  m_Name: RH4
+  m_EditorClassIdentifier: 
+  id: RH4
+  weaponType: 3
+  topAction: {fileID: 11400000, guid: 57c7e39d33db9fd4292429ff3fdac7f0, type: 2}
+  bottomAction: {fileID: 11400000, guid: 2720d3e947b8f5648b0b87c5eebbbdd5, type: 2}

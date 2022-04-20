@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61c3899fa38c95b4f87ffe0e593f34e9, type: 3}
+  m_Name: RH5
+  m_EditorClassIdentifier: 
+  id: RH5
+  weaponType: 3
+  topAction: {fileID: 11400000, guid: e53d89ab3e0d64a488a5d6b1b4a73651, type: 2}
+  bottomAction: {fileID: 11400000, guid: c2a62c04321614b44bec5aa08461dcdb, type: 2}
