@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a1f3b337e75815e4d916c5f8187e403f, type: 3}
-  m_Name: Foot First
+  m_Name: Take Their Speed
   m_EditorClassIdentifier: 
-  id: m_footfirst
-  actionType: 1
-  title: Foot First
-  cost: 0
-  speed: 7
-  description: '*Set-Up" Move 1 Space left or right'
+  id: 
+  actionType: 0
+  title: 
+  cost: 
+  speed: 
+  description: 
   referenceImage: {fileID: 0}
