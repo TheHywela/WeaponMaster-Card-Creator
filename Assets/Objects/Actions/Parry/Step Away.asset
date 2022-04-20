@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Step Away
   m_EditorClassIdentifier: 
   id: 
-  actionType: 0
+  actionType: 3
   title: Step Away
   cost: 2
   speed: 10

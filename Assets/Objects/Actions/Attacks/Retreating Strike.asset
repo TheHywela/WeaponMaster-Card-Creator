@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 
   actionType: 0
-  title: Retrating Strike
+  title: Retreating Strike
   cost: 5
   speed: 4
   description: '*Set-Up*. If the attack fails, move 2 spaces.'

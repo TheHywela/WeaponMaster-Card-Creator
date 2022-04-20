@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: sr6
   m_EditorClassIdentifier: 
   id: 
-  weaponType: 0
+  weaponType: 4
   topAction: {fileID: 0}
   bottomAction: {fileID: 0}

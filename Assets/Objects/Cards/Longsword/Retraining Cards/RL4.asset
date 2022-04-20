@@ -15,4 +15,4 @@ MonoBehaviour:
   id: 
   weaponType: 2
   topAction: {fileID: 11400000, guid: 0a839017086b7e24fb9376170a5df931, type: 2}
-  bottomAction: {fileID: 0}
+  bottomAction: {fileID: 11400000, guid: ab919b106ae1b4c46b7ab2f57f20a96a, type: 2}

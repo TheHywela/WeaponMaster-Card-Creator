@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 
   actionType: 0
-  title: 
-  cost: 
-  speed: 
-  description: 
+  title: Tail Stance
+  cost: 2
+  speed: 1
+  description: '*Sideboard* If you fail an attack, you may spend 2 inertia. If you
+    do. Discard this card and place a different sideboard card in your hand to replace
+    it.'
   referenceImage: {fileID: 0}

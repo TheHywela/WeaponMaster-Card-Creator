@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: TKO
   m_EditorClassIdentifier: 
   id: 
-  actionType: 0
-  title: 
-  cost: 
+  actionType: 3
+  title: 10
+  cost: 10
   speed: 
-  description: 
+  description: '*Set-Up* Place two weapon tokens, one a space next to you, another
+    a space next to your opponent. neither you or your opponent can play an attack
+    action until you land on either weapon token'
   referenceImage: {fileID: 0}

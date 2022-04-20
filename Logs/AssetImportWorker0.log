@@ -353,3 +353,142 @@ Received Import Request.
   path: Assets/Objects/Cards/Sabere/Retraining Cards/sr6.asset
   artifactKey: Guid(d645802d9c31b9341999319877dfb210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Objects/Cards/Sabere/Retraining Cards/sr6.asset using Guid(d645802d9c31b9341999319877dfb210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c41b39d60c869faca5944f2c4da9c872') in 0.006165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 130.058112 seconds.
+  path: Assets/Objects/Actions/Parry/ControlTheirWeapon.asset
+  artifactKey: Guid(10bcc890b8c8dc443914da89efd1e055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Parry/ControlTheirWeapon.asset using Guid(10bcc890b8c8dc443914da89efd1e055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a289dc6cce0432bbeca55fae30d40f5e') in 0.006150 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.601957 seconds.
+  path: Assets/Objects/Actions/Move/Extend Reach.asset
+  artifactKey: Guid(c2a62c04321614b44bec5aa08461dcdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Move/Extend Reach.asset using Guid(c2a62c04321614b44bec5aa08461dcdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1362e88552bafa5482a2bea8b90d51c5') in 0.014465 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.436707 seconds.
+  path: Assets/Objects/Actions/Move/Parallel Walk.asset
+  artifactKey: Guid(9e608655893e21d40bd42411565bdee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Move/Parallel Walk.asset using Guid(9e608655893e21d40bd42411565bdee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6c0998d37abc856c895b8336b4c757c') in 0.006338 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.021032 seconds.
+  path: Assets/Objects/Actions/Move/New Action.asset
+  artifactKey: Guid(7f546931ee5c3404f91362c62fa82dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Move/New Action.asset using Guid(7f546931ee5c3404f91362c62fa82dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59ed13609ec33c1534afef9f344311f2') in 0.005955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 33.336781 seconds.
+  path: Assets/Objects/Actions/Abilities/Misdirection.asset
+  artifactKey: Guid(675b67e3102536b45a4798117c25e9f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Abilities/Misdirection.asset using Guid(675b67e3102536b45a4798117c25e9f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ace5b2356bb0af5f340d4e96e36d166b') in 0.006181 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.177910 seconds.
+  path: Assets/Objects/Actions/Abilities/Rolling Inertia.asset
+  artifactKey: Guid(a2369c5a381f3c0459dc70a5e262d8ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Abilities/Rolling Inertia.asset using Guid(a2369c5a381f3c0459dc70a5e262d8ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec67290560d024d190286a383a85b315') in 0.006127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022525 seconds.
+  path: Assets/Objects/Actions/Abilities/Rolling Momentum.asset
+  artifactKey: Guid(fa065fbdc5bae474fa682a0b7e36e367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Abilities/Rolling Momentum.asset using Guid(fa065fbdc5bae474fa682a0b7e36e367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a698915a5aceadfbb12ce879f16cd3ea') in 0.006086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.286867 seconds.
+  path: Assets/Objects/Actions/Attacks/Gore.asset
+  artifactKey: Guid(e53d89ab3e0d64a488a5d6b1b4a73651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Attacks/Gore.asset using Guid(e53d89ab3e0d64a488a5d6b1b4a73651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03f9e0177e69450dd8714d0d8d199ebd') in 0.014740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.383659 seconds.
+  path: Assets/Objects/Actions/Attacks/Side Strike.asset
+  artifactKey: Guid(c21f99d9463a2fd4aa851d35104972d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Attacks/Side Strike.asset using Guid(c21f99d9463a2fd4aa851d35104972d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e994f263763c0f0dabd62ab24babcc9') in 0.006125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.648053 seconds.
+  path: Assets/Objects/Actions/Parry/Desperate Reaction.asset
+  artifactKey: Guid(e43f53c461b607747b7678bf57f4ebc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Parry/Desperate Reaction.asset using Guid(e43f53c461b607747b7678bf57f4ebc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6e748d48e166d481c86e5d5b06c5523') in 0.006127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.899828 seconds.
+  path: Assets/Objects/Actions/Move/Lunge.asset
+  artifactKey: Guid(7f546931ee5c3404f91362c62fa82dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Move/Lunge.asset using Guid(7f546931ee5c3404f91362c62fa82dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3d2c193455473703ab399f20312331a') in 0.006442 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 140.787058 seconds.
+  path: Assets/Objects/Actions/Move/Lunge.asset
+  artifactKey: Guid(0e57404ba5ad73247b82e1c4e5dfbbbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Move/Lunge.asset using Guid(0e57404ba5ad73247b82e1c4e5dfbbbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edaab454a12ed1d38ad7bb0a7b9ff3e6') in 0.002670 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.340060 seconds.
+  path: Assets/Objects/Actions/Parry/TKO.asset
+  artifactKey: Guid(bc6f33116e1b55e4592f9d820ec82ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Parry/TKO.asset using Guid(bc6f33116e1b55e4592f9d820ec82ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bf3b9d2626e2d875471fa4ca2d5852c') in 0.006424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 71.476156 seconds.
+  path: Assets/Objects/Actions/Abilities/Predictive Defence.asset
+  artifactKey: Guid(350ad1dccae8d0a47a24c2c4541a022b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Abilities/Predictive Defence.asset using Guid(350ad1dccae8d0a47a24c2c4541a022b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71d51d093044c13ea5853100a961b8bb') in 0.006092 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 93.241394 seconds.
+  path: Assets/Objects/Actions/Attacks/Retrating Strike.asset
+  artifactKey: Guid(5c848171dc04032439bf5c2a7b7ba1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Attacks/Retrating Strike.asset using Guid(5c848171dc04032439bf5c2a7b7ba1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e48bafe72355b33fe05c0638678c487') in 0.006356 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 64.711052 seconds.
+  path: Assets/Objects/Actions/Attacks/Retreating Strike.asset
+  artifactKey: Guid(5c848171dc04032439bf5c2a7b7ba1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Attacks/Retreating Strike.asset using Guid(5c848171dc04032439bf5c2a7b7ba1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14d393642b2be2eccc5481ad19be7c50') in 0.006045 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.766932 seconds.
+  path: Assets/Objects/Actions/Parry/Take Their Speed.asset
+  artifactKey: Guid(da42ed157511f9e488aee07b19a041c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Parry/Take Their Speed.asset using Guid(da42ed157511f9e488aee07b19a041c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf1b60f2f2ed00aa810f468ec330caa0') in 0.006319 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27873.460413 seconds.
+  path: Assets/Objects/Actions/Abilities/Fool's Stance.asset
+  artifactKey: Guid(710e3888d2441e44ca4b52f0173e77c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Abilities/Fool's Stance.asset using Guid(710e3888d2441e44ca4b52f0173e77c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1381284a929f5f0c858f44754cc4b04e') in 0.017352 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 53.150933 seconds.
+  path: Assets/Objects/Actions/Parry/Step Away.asset
+  artifactKey: Guid(b55f3b6f94d8bef43820e4be8c6d208d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Parry/Step Away.asset using Guid(b55f3b6f94d8bef43820e4be8c6d208d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80ac94be79e24521ad9bfb0d4c388573') in 0.020483 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Objects/Actions/Parry/Sweep.asset
+  artifactKey: Guid(57c7e39d33db9fd4292429ff3fdac7f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Parry/Sweep.asset using Guid(57c7e39d33db9fd4292429ff3fdac7f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43df1e7a524d193a9a08f7777678befc') in 0.005742 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3012.147524 seconds.
+  path: Assets/Objects/Actions/Abilities/Prepared Stance.asset
+  artifactKey: Guid(9d0c3d611aa06dc439cb27e8bd005e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Actions/Abilities/Prepared Stance.asset using Guid(9d0c3d611aa06dc439cb27e8bd005e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60c3a2b8bde357741761152c64cd11d8') in 0.013182 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5582.984653 seconds.
+  path: Assets/Objects/Cards/SwordBuckler/Retraining Cards
+  artifactKey: Guid(9c9d6a7bbebbd1146b600488b1528a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/SwordBuckler/Retraining Cards using Guid(9c9d6a7bbebbd1146b600488b1528a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd05a39e7d536466eb6bf0621f93db040') in 0.006001 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.154915 seconds.
+  path: Assets/Objects/Cards/SwordBuckler/Starting Cards
+  artifactKey: Guid(769ad7c489e54314889fd2cd7fe55c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards using Guid(769ad7c489e54314889fd2cd7fe55c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50e932c42bd6c9cfe16dc44bacb51c55') in 0.005533 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

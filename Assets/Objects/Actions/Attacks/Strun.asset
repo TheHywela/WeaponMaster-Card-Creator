@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Strun
   m_EditorClassIdentifier: 
   id: 
-  actionType: 0
+  actionType: 2
   title: Stun
   cost: 6
   speed: 4.5

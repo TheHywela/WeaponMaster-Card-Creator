@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 
   actionType: 0
-  title: 
-  cost: 
-  speed: 
-  description: 
+  title: Take Their Speed
+  cost: 7
+  speed: 10
+  description: '*Set-Up* If successful, next turn, your first action has +2 speed.'
   referenceImage: {fileID: 0}

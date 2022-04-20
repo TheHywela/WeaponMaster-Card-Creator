@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Sweep
   m_EditorClassIdentifier: 
   id: 
-  actionType: 0
+  actionType: 3
   title: Sweep
   cost: 5
   speed: 10

@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: s15
   m_EditorClassIdentifier: 
   id: 
-  weaponType: 0
-  topAction: {fileID: 0}
-  bottomAction: {fileID: 0}
+  weaponType: 4
+  topAction: {fileID: 11400000, guid: 81ec9a49e6f356846b24f77b9863e5b7, type: 2}
+  bottomAction: {fileID: 11400000, guid: f90b03b9de238dc429e4cda92e5500df, type: 2}

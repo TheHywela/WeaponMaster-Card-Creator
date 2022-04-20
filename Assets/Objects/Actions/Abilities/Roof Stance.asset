@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 
   actionType: 0
-  title: 
-  cost: 
-  speed: 
+  title: Roof Stance
+  cost: 4
+  speed: 1
   description: '*Sideboard* You may spend one inertia token per turn on an action
     to increase its speed value by 1.'
   referenceImage: {fileID: 0}

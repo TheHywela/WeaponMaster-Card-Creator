@@ -14,8 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 
   actionType: 0
-  title: 
-  cost: 
-  speed: 
-  description: 
+  title: 8
+  cost: 3
+  speed: 10
+  description: '*Sideboard* Every time you play a parry, even if you fail, gain 2
+    momentum.'
   referenceImage: {fileID: 0}
