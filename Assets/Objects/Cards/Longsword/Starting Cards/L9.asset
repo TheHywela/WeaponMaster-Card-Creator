@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61c3899fa38c95b4f87ffe0e593f34e9, type: 3}
   m_Name: L9
   m_EditorClassIdentifier: 
+  isStarter: 1
   id: l9
   weaponType: 2
   topAction: {fileID: 11400000, guid: 6da2a73711d3c8f41af47b297a0f1d99, type: 2}

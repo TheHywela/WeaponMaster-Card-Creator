@@ -15,11 +15,11 @@ D:/Projects/Unity/WeaponMaster Card Creator
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51764
+55643
 Successfully changed project path to: D:/Projects/Unity/WeaponMaster Card Creator
 D:/Projects/Unity/WeaponMaster Card Creator
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 52.37 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 46.51 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.31f1 (6b54b7616050)
 [Subsystems] Discovering subsystems at path D:/Applications/Unity Installs/2020.3.31f1/Editor/Data/Resources/UnitySubsystems
@@ -35,92 +35,92 @@ Initialize mono
 Mono path[0] = 'D:/Applications/Unity Installs/2020.3.31f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Applications/Unity Installs/2020.3.31f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Applications/Unity Installs/2020.3.31f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56280
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56828
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Applications/Unity Installs/2020.3.31f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Applications/Unity Installs/2020.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001295 seconds.
+Registered in 0.001051 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 61.62 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 51.87 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.650 seconds
+- Completed reload, in  0.534 seconds
 Domain Reload Profiling:
-	ReloadAssembly (650ms)
-		BeginReloadAssembly (63ms)
+	ReloadAssembly (535ms)
+		BeginReloadAssembly (49ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (510ms)
-			LoadAssemblies (62ms)
+		EndReloadAssembly (424ms)
+			LoadAssemblies (49ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (165ms)
+			SetupTypeCache (134ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (36ms)
-			SetupLoadedEditorAssemblies (205ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (173ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
+				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (62ms)
-				BeforeProcessingInitializeOnLoad (10ms)
-				ProcessInitializeOnLoadAttributes (94ms)
-				ProcessInitializeOnLoadMethodAttributes (32ms)
+				RefreshPlugins (52ms)
+				BeforeProcessingInitializeOnLoad (12ms)
+				ProcessInitializeOnLoadAttributes (78ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002716 seconds.
+Registered in 0.002491 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 59.52 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 55.44 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.202 seconds
+- Completed reload, in  1.023 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1204ms)
-		BeginReloadAssembly (157ms)
+	ReloadAssembly (1024ms)
+		BeginReloadAssembly (134ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (21ms)
-		EndReloadAssembly (984ms)
-			LoadAssemblies (100ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (837ms)
+			LoadAssemblies (83ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (320ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (58ms)
-			SetupLoadedEditorAssemblies (386ms)
+			SetupTypeCache (269ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (338ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
+				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (60ms)
-				BeforeProcessingInitializeOnLoad (78ms)
-				ProcessInitializeOnLoadAttributes (222ms)
-				ProcessInitializeOnLoadMethodAttributes (20ms)
+				RefreshPlugins (56ms)
+				BeforeProcessingInitializeOnLoad (77ms)
+				ProcessInitializeOnLoadAttributes (182ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
 				AfterProcessingInitializeOnLoad (2ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (7ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2217 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 99.0 MB.
-System memory in use after: 99.1 MB.
+System memory in use before: 99.1 MB.
+System memory in use after: 99.2 MB.
 
 Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2655.
-Total: 3.502700 ms (FindLiveObjects: 0.223100 ms CreateObjectMapping: 0.070800 ms MarkObjects: 3.129200 ms  DeleteObjects: 0.078000 ms)
+Total: 4.451500 ms (FindLiveObjects: 0.391400 ms CreateObjectMapping: 0.149600 ms MarkObjects: 3.764200 ms  DeleteObjects: 0.144400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -134,426 +134,463 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Objects/Cards/Sabere/Retraining Cards/sr6.asset
-  artifactKey: Guid(d645802d9c31b9341999319877dfb210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Retraining Cards/sr6.asset using Guid(d645802d9c31b9341999319877dfb210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba6b20d90700f66c7599a645cea78941') in 0.050251 seconds 
+  path: Assets/Objects/Decks/Sideboard Cards.asset
+  artifactKey: Guid(54f9eb3d695980944a63b832fcf28075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Decks/Sideboard Cards.asset using Guid(54f9eb3d695980944a63b832fcf28075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc4612ebbc5d0c3276bd14f706da781c') in 0.053497 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000296 seconds.
-  path: Assets/Objects/Cards/Sabere/Retraining Cards/sr2.asset
-  artifactKey: Guid(8f4014b6f49892546b3cd65dc2805919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Retraining Cards/sr2.asset using Guid(8f4014b6f49892546b3cd65dc2805919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1023bff9a4d2729d8973aad6fbe23bc') in 0.007622 seconds 
+  Time since last request: 93.097428 seconds.
+  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb17.asset
+  artifactKey: Guid(254b44c2fc778544bba5fadbd1d7a47f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb17.asset using Guid(254b44c2fc778544bba5fadbd1d7a47f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf555f6e82120570777339d86aebb626') in 0.007987 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000209 seconds.
-  path: Assets/Objects/Cards/Sabere/Retraining Cards/sr4.asset
-  artifactKey: Guid(4720ce5c65a972346b7454e25cf75e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Retraining Cards/sr4.asset using Guid(4720ce5c65a972346b7454e25cf75e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2a356b096c578cfb99a023e0ce1bc07') in 0.007433 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000210 seconds.
-  path: Assets/Objects/Cards/Sabere/Starting Cards/s4.asset
-  artifactKey: Guid(33e7dadedf3bf394a9246524d1e08fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Starting Cards/s4.asset using Guid(33e7dadedf3bf394a9246524d1e08fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e2060a58c19b6fba38c90406709c57d') in 0.009542 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000172 seconds.
-  path: Assets/Objects/Cards/Sabere/Retraining Cards/sr1.asset
-  artifactKey: Guid(268be8d658f9a694fbad52fe942a7cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Retraining Cards/sr1.asset using Guid(268be8d658f9a694fbad52fe942a7cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '799c9f65a1aaf160ad63d659f19968e3') in 0.007661 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000205 seconds.
-  path: Assets/Objects/Cards/Sabere/Retraining Cards/sr3.asset
-  artifactKey: Guid(43ba17f451a4a8441b01d34d82a315a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Retraining Cards/sr3.asset using Guid(43ba17f451a4a8441b01d34d82a315a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3c70278d7c0bdb033ec3b9a1e0f97e9') in 0.006902 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000195 seconds.
-  path: Assets/Objects/Cards/Sabere/Retraining Cards/sr5.asset
-  artifactKey: Guid(a6b14cf8f2432cd48b4d021525af852e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Retraining Cards/sr5.asset using Guid(a6b14cf8f2432cd48b4d021525af852e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9063cd45f69641392eecd30f40680d4c') in 0.007531 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000290 seconds.
-  path: Assets/Objects/Cards/Sabere/Starting Cards/s6.asset
-  artifactKey: Guid(8bcdcab0075e23e4493943c53d96596e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Starting Cards/s6.asset using Guid(8bcdcab0075e23e4493943c53d96596e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb39bd4b13afc3e9559e23bda24e69e1') in 0.011080 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.016212 seconds.
-  path: Assets/Objects/Cards/Sabere/Starting Cards/s7.asset
-  artifactKey: Guid(99cff5d024135be41a4b9348b600161c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Starting Cards/s7.asset using Guid(99cff5d024135be41a4b9348b600161c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b287fae707336a64a0cdcaf6839fa011') in 0.008419 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.022558 seconds.
-  path: Assets/Objects/Cards/Sabere/Starting Cards/s8.asset
-  artifactKey: Guid(dd0442117f2d10c488a746fb9c465c0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Starting Cards/s8.asset using Guid(dd0442117f2d10c488a746fb9c465c0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22967ae8a3b6704b58b44baa71fb680d') in 0.008315 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.018453 seconds.
-  path: Assets/Objects/Cards/Sabere/Starting Cards/s9.asset
-  artifactKey: Guid(19b2182b05a0fe54d93e180323523720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Starting Cards/s9.asset using Guid(19b2182b05a0fe54d93e180323523720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c73a8268e6fdb203fce3de89f311bd1') in 0.010661 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.023321 seconds.
-  path: Assets/Objects/Cards/Sabere/Starting Cards/s10.asset
-  artifactKey: Guid(4bbf33cfcd0c9f34484ce65e5a3bb60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Starting Cards/s10.asset using Guid(4bbf33cfcd0c9f34484ce65e5a3bb60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43a24df47271cbbec1afd29c36ea64f6') in 0.007552 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.115234 seconds.
-  path: Assets/Objects/Cards/Sabere/Starting Cards/s11.asset
-  artifactKey: Guid(d8262a52b393aa341b6ee4c4e005ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Starting Cards/s11.asset using Guid(d8262a52b393aa341b6ee4c4e005ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02bfa05282b3b36bf03b5f7b7b37976b') in 0.011059 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.181700 seconds.
-  path: Assets/Objects/Cards/Sabere/Starting Cards/s12.asset
-  artifactKey: Guid(b1c003d225b21d14ba6c1cdd0d244c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Starting Cards/s12.asset using Guid(b1c003d225b21d14ba6c1cdd0d244c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '255a09958e609a2dd4ab2c8510eb97e1') in 0.007674 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.190198 seconds.
-  path: Assets/Objects/Cards/Sabere/Starting Cards/s13.asset
-  artifactKey: Guid(dd2eadd5378ab8741a890d5fb4404d7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Starting Cards/s13.asset using Guid(dd2eadd5378ab8741a890d5fb4404d7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1d884349664628983c57e7d0eae672a') in 0.008498 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.197228 seconds.
-  path: Assets/Objects/Cards/Sabere/Starting Cards/s14.asset
-  artifactKey: Guid(99c013c6f6f39284a96b36453f305000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Starting Cards/s14.asset using Guid(99c013c6f6f39284a96b36453f305000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '124125da924f9f616747cd31e52ba3d3') in 0.007733 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.180906 seconds.
-  path: Assets/Objects/Cards/Sabere/Starting Cards/s15.asset
-  artifactKey: Guid(5ee56f73da5a8044f9f7042afc267778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Starting Cards/s15.asset using Guid(5ee56f73da5a8044f9f7042afc267778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c14d02e94388ef33e96e5f34c9cd5a13') in 0.008962 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.748661 seconds.
-  path: Assets/Objects/Cards/Sabere/Starting Cards/s16.asset
-  artifactKey: Guid(ae27c9da90b07ec408a584f49c1b97c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Starting Cards/s16.asset using Guid(ae27c9da90b07ec408a584f49c1b97c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e97590fb5e55c0bc35bfdfaab17e337d') in 0.007597 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.184044 seconds.
-  path: Assets/Objects/Cards/Sabere/Starting Cards/s17.asset
-  artifactKey: Guid(c9fdeddbc492f8f4d83de708a6f3f755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Starting Cards/s17.asset using Guid(c9fdeddbc492f8f4d83de708a6f3f755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '157fc57efef240412b3dfbf164b2fb0a') in 0.008541 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.260565 seconds.
-  path: Assets/Objects/Cards/Sabere/Starting Cards/s5.asset
-  artifactKey: Guid(ccb2495724f5bc94187f4bb35295d46a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Starting Cards/s5.asset using Guid(ccb2495724f5bc94187f4bb35295d46a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ebb40d8096d80873c0c008601b2c6cc') in 0.011284 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 75.531785 seconds.
-  path: Assets/Objects/Actions/Abilities/Prepared Stance.asset
-  artifactKey: Guid(9d0c3d611aa06dc439cb27e8bd005e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Abilities/Prepared Stance.asset using Guid(9d0c3d611aa06dc439cb27e8bd005e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abad84fca22836cb589ab60879b13129') in 0.006945 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/Objects/Actions/Attacks/Retreating Strike.asset
-  artifactKey: Guid(5c848171dc04032439bf5c2a7b7ba1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Attacks/Retreating Strike.asset using Guid(5c848171dc04032439bf5c2a7b7ba1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e42d9fbd192f2bcd231cd1e37d5a51a1') in 0.007171 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/Objects/Actions/Abilities/Roof Stance.asset
-  artifactKey: Guid(be40cd8848491b743a229fbfc20910b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Abilities/Roof Stance.asset using Guid(be40cd8848491b743a229fbfc20910b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c7401cbeb3295eb61a4b75fa561e76a') in 0.012834 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.403402 seconds.
-  path: Assets/Objects/Actions/Parry/Step Away.asset
-  artifactKey: Guid(b55f3b6f94d8bef43820e4be8c6d208d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Parry/Step Away.asset using Guid(b55f3b6f94d8bef43820e4be8c6d208d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e7cd1ca1826341aef0dac7b0b8bf0f8') in 0.012812 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 431.317779 seconds.
-  path: Assets/Objects/Actions/Abilities/New Action.asset
-  artifactKey: Guid(82354fb021502be44b25e886ba94a0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Abilities/New Action.asset using Guid(82354fb021502be44b25e886ba94a0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95d422546612f9d6a4ac62b2116a5576') in 0.007318 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 113.296347 seconds.
-  path: Assets/Objects/Actions/Abilities/Mix-Up.asset
-  artifactKey: Guid(82354fb021502be44b25e886ba94a0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Abilities/Mix-Up.asset using Guid(82354fb021502be44b25e886ba94a0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91963455bb11d7f67acdf7d89c6214b9') in 0.006307 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 230.098241 seconds.
-  path: Assets/Objects/Actions/Attacks/Curved Lunge.asset
-  artifactKey: Guid(a52a9eeba23f93540a1b65b081445db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Attacks/Curved Lunge.asset using Guid(a52a9eeba23f93540a1b65b081445db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaa7e2c7c5129b9648a8ce94f86920b9') in 0.006395 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 372.295594 seconds.
-  path: Assets/Objects/Actions/Abilities/relocate.asset
-  artifactKey: Guid(f289729bef37b29468f66727f9f72188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Abilities/relocate.asset using Guid(f289729bef37b29468f66727f9f72188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2f999e351867704ce1e5186310f2ff0') in 0.007407 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 8.699060 seconds.
-  path: Assets/Objects/Actions/Move/Parallel Walk.asset
-  artifactKey: Guid(9e608655893e21d40bd42411565bdee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Move/Parallel Walk.asset using Guid(9e608655893e21d40bd42411565bdee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13f462005d67bcbe191c4c525d3cf79e') in 0.008685 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 64.620356 seconds.
-  path: Assets/Objects/Actions/Move/Sprint.asset
-  artifactKey: Guid(280142a4b0c179f4aaf5192ccc3aca2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Move/Sprint.asset using Guid(280142a4b0c179f4aaf5192ccc3aca2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8390189646acd095674f55c2de862e78') in 0.009398 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2775.914304 seconds.
-  path: Assets/Objects/Actions/Move/New Action.asset
-  artifactKey: Guid(9dec6c715ef782641bc9035e5baaf31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Move/New Action.asset using Guid(9dec6c715ef782641bc9035e5baaf31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53337626d1c795a3deed12fcd7c98e5e') in 0.002948 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 12.083536 seconds.
-  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb4.asset
-  artifactKey: Guid(52688f1eea3fd544a9a1152101e0a7bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb4.asset using Guid(52688f1eea3fd544a9a1152101e0a7bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bf3f37ec1ab7433326bee86571a1551') in 0.008847 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.598826 seconds.
-  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb5.asset
-  artifactKey: Guid(144231556add83244b5f94d7ce44dec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb5.asset using Guid(144231556add83244b5f94d7ce44dec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cbf943e49d5d20269286ab6ffd65c41') in 0.010418 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.791235 seconds.
-  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb6.asset
-  artifactKey: Guid(4f661ba01244d1645a82d40743a64fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb6.asset using Guid(4f661ba01244d1645a82d40743a64fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'becf1758fa7a34d5489218fb7b7c4f42') in 0.007778 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.168015 seconds.
-  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb7.asset
-  artifactKey: Guid(89fa3bafbc1974f4fb84a542e66156dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb7.asset using Guid(89fa3bafbc1974f4fb84a542e66156dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9920a174178c9d5c34d400dff7968a94') in 0.009396 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.412200 seconds.
-  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb8.asset
-  artifactKey: Guid(5f1808532735cff4990aee185c216e83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb8.asset using Guid(5f1808532735cff4990aee185c216e83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a800ed00f081698da1b22da4dd63afa8') in 0.007587 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.595884 seconds.
-  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb9.asset
-  artifactKey: Guid(bc3f5836ad6cc174f923e7dcbce6c232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb9.asset using Guid(bc3f5836ad6cc174f923e7dcbce6c232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0e89486c65f60c4e2a9bd299b042f40') in 0.008558 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.973657 seconds.
-  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb10.asset
-  artifactKey: Guid(5ffecce33a2ebce429eba2cc9c943b41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb10.asset using Guid(5ffecce33a2ebce429eba2cc9c943b41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ff424ed5a5c0f4612cad966cd1ece82') in 0.008009 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.493504 seconds.
-  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb11.asset
-  artifactKey: Guid(705f0fdc3622e8e4a9a01a1e30eaa1d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb11.asset using Guid(705f0fdc3622e8e4a9a01a1e30eaa1d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ff1e88085a7b8162a042eae9e3dbf30') in 0.007810 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.048364 seconds.
-  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb12.asset
-  artifactKey: Guid(05405706fca7acf45aca2498a77794da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb12.asset using Guid(05405706fca7acf45aca2498a77794da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e70594927e92bb006be02b9500b33117') in 0.010573 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.729138 seconds.
-  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb13.asset
-  artifactKey: Guid(8f21a34bd007c654894b5d99e6056e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb13.asset using Guid(8f21a34bd007c654894b5d99e6056e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b40092e87d878f5f1c54665f1ba3fd74') in 0.008796 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.909261 seconds.
-  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb14.asset
-  artifactKey: Guid(8d28a8a287cdca34eb1a009494243675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb14.asset using Guid(8d28a8a287cdca34eb1a009494243675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecdff43ade976f995c841c9cc4887792') in 0.009172 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.363788 seconds.
-  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb15.asset
-  artifactKey: Guid(4e020f945e19566489fb91621577d34e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb15.asset using Guid(4e020f945e19566489fb91621577d34e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea19a937159b40d1f3ab0dfbbc2dc5c2') in 0.008886 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.266619 seconds.
+  Time since last request: 0.888450 seconds.
   path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb16.asset
   artifactKey: Guid(0317c7d7aa1b1a64c993ef2862fb3761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb16.asset using Guid(0317c7d7aa1b1a64c993ef2862fb3761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba5e8acea38437f88cf3aadc5c12384e') in 0.006872 seconds 
+Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb16.asset using Guid(0317c7d7aa1b1a64c993ef2862fb3761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01f0e31c9d4ce6fce26140f4e54878ac') in 0.008309 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.976838 seconds.
-  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb17.asset
-  artifactKey: Guid(254b44c2fc778544bba5fadbd1d7a47f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb17.asset using Guid(254b44c2fc778544bba5fadbd1d7a47f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef0ab289ed726ac7b01f44f8e5344eee') in 0.012013 seconds 
+  Time since last request: 0.469488 seconds.
+  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb15.asset
+  artifactKey: Guid(4e020f945e19566489fb91621577d34e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb15.asset using Guid(4e020f945e19566489fb91621577d34e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ad02cc667865561115da386ef00d19b') in 0.007824 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 66.115016 seconds.
-  path: Assets/Objects/Actions/Move/Intimidating Approach.asset
-  artifactKey: Guid(ce9a9d29b27c48445ac532c7e9eb93b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Move/Intimidating Approach.asset using Guid(ce9a9d29b27c48445ac532c7e9eb93b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0f44806e9671bc3f0d154027726601f') in 0.007347 seconds 
+  Time since last request: 0.021983 seconds.
+  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb14.asset
+  artifactKey: Guid(8d28a8a287cdca34eb1a009494243675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb14.asset using Guid(8d28a8a287cdca34eb1a009494243675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88f8193c2f33bf68743b8437fb364388') in 0.007637 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 88.863823 seconds.
-  path: Assets/Objects/Actions/Abilities/Rolling Defence.asset
-  artifactKey: Guid(4262cf3138b366d4bb5440bcea9bd761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Abilities/Rolling Defence.asset using Guid(4262cf3138b366d4bb5440bcea9bd761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6aeaad82ff91362222269f619012a42') in 0.013234 seconds 
+  Time since last request: 0.022446 seconds.
+  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb13.asset
+  artifactKey: Guid(8f21a34bd007c654894b5d99e6056e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb13.asset using Guid(8f21a34bd007c654894b5d99e6056e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76b70c4c9ceaf6627775e94a8f9fb7f5') in 0.006371 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 277.475296 seconds.
-  path: Assets/Objects/Actions/Abilities/Predictive Defence.asset
-  artifactKey: Guid(350ad1dccae8d0a47a24c2c4541a022b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Abilities/Predictive Defence.asset using Guid(350ad1dccae8d0a47a24c2c4541a022b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bba800b65a5b835ca0dabc23956f2ac2') in 0.010822 seconds 
+  Time since last request: 0.019214 seconds.
+  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb12.asset
+  artifactKey: Guid(05405706fca7acf45aca2498a77794da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb12.asset using Guid(05405706fca7acf45aca2498a77794da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa7e699fec7b3f58a68d251ad36a08c6') in 0.006235 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 21.816517 seconds.
-  path: Assets/Objects/Actions/Parry/Create Your Opportunity.asset
-  artifactKey: Guid(4f0ab12d671155d449c9a76e16463497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Parry/Create Your Opportunity.asset using Guid(4f0ab12d671155d449c9a76e16463497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5263c1ca288e526ea7f5903c7601710') in 0.007204 seconds 
+  Time since last request: 0.019237 seconds.
+  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb11.asset
+  artifactKey: Guid(705f0fdc3622e8e4a9a01a1e30eaa1d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb11.asset using Guid(705f0fdc3622e8e4a9a01a1e30eaa1d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e7de01ddb931df0064591687bcaec3e') in 0.006240 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 183.750805 seconds.
-  path: Assets/Objects/Actions/Abilities/Tail Stance.asset
-  artifactKey: Guid(bd39d63f4fd389a45a2bea30f80fe8bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Abilities/Tail Stance.asset using Guid(bd39d63f4fd389a45a2bea30f80fe8bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ac483c498317524f5ea7888dcd521e7') in 0.008104 seconds 
+  Time since last request: 0.027118 seconds.
+  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb10.asset
+  artifactKey: Guid(5ffecce33a2ebce429eba2cc9c943b41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb10.asset using Guid(5ffecce33a2ebce429eba2cc9c943b41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b400f2a0953a274a11249286f302df4') in 0.006029 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 21.590652 seconds.
-  path: Assets/Objects/Actions/Attacks/Stun.asset
-  artifactKey: Guid(d7cffd5a02befb8409f431ec6c7d24d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Attacks/Stun.asset using Guid(d7cffd5a02befb8409f431ec6c7d24d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57bd8f775363a99cd0986e813f4f2cf8') in 0.007625 seconds 
+  Time since last request: 0.024892 seconds.
+  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb9.asset
+  artifactKey: Guid(bc3f5836ad6cc174f923e7dcbce6c232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb9.asset using Guid(bc3f5836ad6cc174f923e7dcbce6c232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01a4d74963646c0db1d192e81adc0404') in 0.005819 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.096473 seconds.
-  path: Assets/Objects/Actions/Attacks/Strun.asset
-  artifactKey: Guid(61acba000c9008848896195e8370ca75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Attacks/Strun.asset using Guid(61acba000c9008848896195e8370ca75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48d50631d67f9f57e009b862e276daac') in 0.008168 seconds 
+  Time since last request: 0.025279 seconds.
+  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb8.asset
+  artifactKey: Guid(5f1808532735cff4990aee185c216e83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb8.asset using Guid(5f1808532735cff4990aee185c216e83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ad268cb17ce1ff5f9d99a4afde00200') in 0.006049 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 10.782283 seconds.
-  path: Assets/Objects/Actions/Attacks/Stun.asset
-  artifactKey: Guid(61acba000c9008848896195e8370ca75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Attacks/Stun.asset using Guid(61acba000c9008848896195e8370ca75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e80db75cd6e411186cba972cb97c8b66') in 0.003060 seconds 
+  Time since last request: 0.037953 seconds.
+  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb7.asset
+  artifactKey: Guid(89fa3bafbc1974f4fb84a542e66156dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb7.asset using Guid(89fa3bafbc1974f4fb84a542e66156dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdc8ad5541483a8310892030d9e54bea') in 0.006901 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 20.350953 seconds.
-  path: Assets/Objects/Actions/Parry/Stop their Plans.asset
-  artifactKey: Guid(6063c37266d84cd41a64b5d20441bd2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Parry/Stop their Plans.asset using Guid(6063c37266d84cd41a64b5d20441bd2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4c45775dd8361a7c3b4e60df1110802') in 0.008930 seconds 
+  Time since last request: 0.008284 seconds.
+  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb6.asset
+  artifactKey: Guid(4f661ba01244d1645a82d40743a64fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb6.asset using Guid(4f661ba01244d1645a82d40743a64fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bfe7dbce6c609c145ed4a0ea0623ded') in 0.006969 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 58.429395 seconds.
-  path: Assets/Objects/Actions/Attacks/Don't Let Them Think.asset
-  artifactKey: Guid(fe3ad0e4902b9fd4bbc18d6c5d53b8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Attacks/Don't Let Them Think.asset using Guid(fe3ad0e4902b9fd4bbc18d6c5d53b8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e569783e471fd4acef083698712a4d0') in 0.008775 seconds 
+  Time since last request: 0.028979 seconds.
+  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb5.asset
+  artifactKey: Guid(144231556add83244b5f94d7ce44dec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb5.asset using Guid(144231556add83244b5f94d7ce44dec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6115311446488f89791f36156c768a53') in 0.006248 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 111.637624 seconds.
-  path: Assets/Objects/Actions/Parry/Make them Rethink.asset
-  artifactKey: Guid(4b6d627b3bcf7ba48bb6031a87335466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Parry/Make them Rethink.asset using Guid(4b6d627b3bcf7ba48bb6031a87335466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b68ac8a7bfe559ad2945228c13868b58') in 0.006570 seconds 
+  Time since last request: 0.094603 seconds.
+  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb1.asset
+  artifactKey: Guid(9aa750a0d141859449e1f60bece79ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb1.asset using Guid(9aa750a0d141859449e1f60bece79ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ec98977a13e92acb78dc2b45389335d') in 0.009840 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 169.587788 seconds.
-  path: Assets/Objects/Actions/Parry/True Opportunity.asset
-  artifactKey: Guid(dbe22189e913f30438166ff562389020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Parry/True Opportunity.asset using Guid(dbe22189e913f30438166ff562389020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b925b9850bb5c8fd0239c5a7ab1d08c6') in 0.006923 seconds 
+  Time since last request: 0.329729 seconds.
+  path: Assets/Objects/Cards/Sabere/Starting Cards/s17.asset
+  artifactKey: Guid(c9fdeddbc492f8f4d83de708a6f3f755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Sabere/Starting Cards/s17.asset using Guid(c9fdeddbc492f8f4d83de708a6f3f755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f14b59718755d629ea89ba9dcf40cba3') in 0.006150 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 229.854423 seconds.
-  path: Assets/Objects/Cards/SwordBuckler/Retraining Cards/sbr1.asset
-  artifactKey: Guid(557be580235bbab4aa5ff98075d04eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Retraining Cards/sbr1.asset using Guid(557be580235bbab4aa5ff98075d04eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3832342103ae93819f5c5f8f052e55bf') in 0.006915 seconds 
+  Time since last request: 0.023795 seconds.
+  path: Assets/Objects/Cards/Sabere/Starting Cards/s16.asset
+  artifactKey: Guid(ae27c9da90b07ec408a584f49c1b97c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Sabere/Starting Cards/s16.asset using Guid(ae27c9da90b07ec408a584f49c1b97c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb15bbfef1633851b0066f1db5f8520a') in 0.005701 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.113495 seconds.
-  path: Assets/Objects/Cards/SwordBuckler/Retraining Cards/sbr2.asset
-  artifactKey: Guid(5100e4b66af2ea146a46edde57aa713e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Retraining Cards/sbr2.asset using Guid(5100e4b66af2ea146a46edde57aa713e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb55e18dc283cf3bafd3615a369cb83a') in 0.006647 seconds 
+  Time since last request: 0.019547 seconds.
+  path: Assets/Objects/Cards/Sabere/Starting Cards/s15.asset
+  artifactKey: Guid(5ee56f73da5a8044f9f7042afc267778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Sabere/Starting Cards/s15.asset using Guid(5ee56f73da5a8044f9f7042afc267778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4135fbb991f8919949675d8f04a5a4a') in 0.006534 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.143249 seconds.
-  path: Assets/Objects/Cards/SwordBuckler/Retraining Cards/sbr3.asset
-  artifactKey: Guid(d052ad052a2efac49929768dfbbeb58d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Retraining Cards/sbr3.asset using Guid(d052ad052a2efac49929768dfbbeb58d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '639ce6c49fbe27a420f055a5a6dd7035') in 0.006364 seconds 
+  Time since last request: 0.019785 seconds.
+  path: Assets/Objects/Cards/Sabere/Starting Cards/s14.asset
+  artifactKey: Guid(99c013c6f6f39284a96b36453f305000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Sabere/Starting Cards/s14.asset using Guid(99c013c6f6f39284a96b36453f305000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd64e687078e068ec377bc76952261624') in 0.005944 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.788354 seconds.
-  path: Assets/Objects/Cards/SwordBuckler/Retraining Cards/sbr4.asset
-  artifactKey: Guid(b280465be01395d40a0707c3fe0a3e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Retraining Cards/sbr4.asset using Guid(b280465be01395d40a0707c3fe0a3e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9d445b61195b8f13342b16ef7627381') in 0.006498 seconds 
+  Time since last request: 0.020539 seconds.
+  path: Assets/Objects/Cards/Sabere/Starting Cards/s13.asset
+  artifactKey: Guid(dd2eadd5378ab8741a890d5fb4404d7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Sabere/Starting Cards/s13.asset using Guid(dd2eadd5378ab8741a890d5fb4404d7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a3375d58537cf8769780ac5a13f897f') in 0.006191 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.826916 seconds.
-  path: Assets/Objects/Cards/SwordBuckler/Retraining Cards/sbr5.asset
-  artifactKey: Guid(182ca27e6b6877947aa89a36b5bd7250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Retraining Cards/sbr5.asset using Guid(182ca27e6b6877947aa89a36b5bd7250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff767763f7d7b44680f5dd910796867a') in 0.006547 seconds 
+  Time since last request: 0.037255 seconds.
+  path: Assets/Objects/Cards/Sabere/Starting Cards/s12.asset
+  artifactKey: Guid(b1c003d225b21d14ba6c1cdd0d244c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Sabere/Starting Cards/s12.asset using Guid(b1c003d225b21d14ba6c1cdd0d244c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e960cd8baa5899e87a7ffd919826b5a') in 0.005800 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.422665 seconds.
-  path: Assets/Objects/Cards/SwordBuckler/Retraining Cards/sbr6.asset
-  artifactKey: Guid(94a0d07b67619a64c8a529ea31b1b235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Retraining Cards/sbr6.asset using Guid(94a0d07b67619a64c8a529ea31b1b235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa605180d75e62b67bc4e94c697140e3') in 0.006056 seconds 
+  Time since last request: 0.034732 seconds.
+  path: Assets/Objects/Cards/Sabere/Starting Cards/s11.asset
+  artifactKey: Guid(d8262a52b393aa341b6ee4c4e005ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Sabere/Starting Cards/s11.asset using Guid(d8262a52b393aa341b6ee4c4e005ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '029c3b7f1914b3297523eb1c01b91f02') in 0.005892 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 195.800157 seconds.
-  path: Assets/Objects/Actions/Parry/Sweep.asset
-  artifactKey: Guid(57c7e39d33db9fd4292429ff3fdac7f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Parry/Sweep.asset using Guid(57c7e39d33db9fd4292429ff3fdac7f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b276fcdca243298ee6bc5656022abc6') in 0.010053 seconds 
+  Time since last request: 0.037026 seconds.
+  path: Assets/Objects/Cards/Sabere/Starting Cards/s10.asset
+  artifactKey: Guid(4bbf33cfcd0c9f34484ce65e5a3bb60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Sabere/Starting Cards/s10.asset using Guid(4bbf33cfcd0c9f34484ce65e5a3bb60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a38c4e16db36f7900745405314b531d8') in 0.006258 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/Objects/Actions/Parry/TKO.asset
-  artifactKey: Guid(bc6f33116e1b55e4592f9d820ec82ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Parry/TKO.asset using Guid(bc6f33116e1b55e4592f9d820ec82ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e7f32a091b7258910c386701248a8d0') in 0.016359 seconds 
+  Time since last request: 0.012704 seconds.
+  path: Assets/Objects/Cards/Sabere/Starting Cards/s9.asset
+  artifactKey: Guid(19b2182b05a0fe54d93e180323523720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Sabere/Starting Cards/s9.asset using Guid(19b2182b05a0fe54d93e180323523720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c337bb13f99d67781ec2e092a51f436') in 0.006640 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000239 seconds.
-  path: Assets/Objects/Actions/Parry/Take Their Speed.asset
-  artifactKey: Guid(da42ed157511f9e488aee07b19a041c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Actions/Parry/Take Their Speed.asset using Guid(da42ed157511f9e488aee07b19a041c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a335345886ebb83e6599e66111ebf504') in 0.006133 seconds 
+  Time since last request: 0.012973 seconds.
+  path: Assets/Objects/Cards/Sabere/Starting Cards/s8.asset
+  artifactKey: Guid(dd0442117f2d10c488a746fb9c465c0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Sabere/Starting Cards/s8.asset using Guid(dd0442117f2d10c488a746fb9c465c0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '729fcca6208841230b04822819fb8380') in 0.006293 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 537.868489 seconds.
-  path: Assets/Objects/Cards/SwordBuckler/Starting Cards/sb17.asset
-  artifactKey: Guid(254b44c2fc778544bba5fadbd1d7a47f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/SwordBuckler/Starting Cards/sb17.asset using Guid(254b44c2fc778544bba5fadbd1d7a47f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c5a24108cc650014a961558bf6ba3fa') in 0.007776 seconds 
+  Time since last request: 0.014896 seconds.
+  path: Assets/Objects/Cards/Sabere/Starting Cards/s7.asset
+  artifactKey: Guid(99cff5d024135be41a4b9348b600161c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Sabere/Starting Cards/s7.asset using Guid(99cff5d024135be41a4b9348b600161c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfc59e8cdcfc14d64fc2ed99e626fca1') in 0.005818 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.839037 seconds.
-  path: Assets/Objects/Cards/Sabere/Retraining Cards/sr4.asset
-  artifactKey: Guid(4720ce5c65a972346b7454e25cf75e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Retraining Cards/sr4.asset using Guid(4720ce5c65a972346b7454e25cf75e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70d823c3b40addc0f7b70b9380b66321') in 0.002712 seconds 
+  Time since last request: 0.024780 seconds.
+  path: Assets/Objects/Cards/Sabere/Starting Cards/s6.asset
+  artifactKey: Guid(8bcdcab0075e23e4493943c53d96596e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Sabere/Starting Cards/s6.asset using Guid(8bcdcab0075e23e4493943c53d96596e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a1df55eaf17d4a9270d43da20c36465') in 0.005745 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.025420 seconds.
-  path: Assets/Objects/Cards/Sabere/Retraining Cards/sr3.asset
-  artifactKey: Guid(43ba17f451a4a8441b01d34d82a315a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Retraining Cards/sr3.asset using Guid(43ba17f451a4a8441b01d34d82a315a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1ff5d32601a90f9c590853d4ecb802d') in 0.002705 seconds 
+  Time since last request: 0.023647 seconds.
+  path: Assets/Objects/Cards/Sabere/Starting Cards/s5.asset
+  artifactKey: Guid(ccb2495724f5bc94187f4bb35295d46a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Sabere/Starting Cards/s5.asset using Guid(ccb2495724f5bc94187f4bb35295d46a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e25e56d7c059fc8a2d2ba9a58de52245') in 0.005736 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.025857 seconds.
-  path: Assets/Objects/Cards/Sabere/Retraining Cards/sr2.asset
-  artifactKey: Guid(8f4014b6f49892546b3cd65dc2805919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Retraining Cards/sr2.asset using Guid(8f4014b6f49892546b3cd65dc2805919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84c033142d5faec21c04941afea4b23d') in 0.005893 seconds 
+  Time since last request: 0.023606 seconds.
+  path: Assets/Objects/Cards/Sabere/Starting Cards/s4.asset
+  artifactKey: Guid(33e7dadedf3bf394a9246524d1e08fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Sabere/Starting Cards/s4.asset using Guid(33e7dadedf3bf394a9246524d1e08fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31339fc4349e79a77adfebbab96d74a2') in 0.006503 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.029684 seconds.
-  path: Assets/Objects/Cards/Sabere/Retraining Cards/sr1.asset
-  artifactKey: Guid(268be8d658f9a694fbad52fe942a7cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Objects/Cards/Sabere/Retraining Cards/sr1.asset using Guid(268be8d658f9a694fbad52fe942a7cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60e878db518f80382c77355f13d679a0') in 0.006916 seconds 
+  Time since last request: 0.017885 seconds.
+  path: Assets/Objects/Cards/Sabere/Starting Cards/s3.asset
+  artifactKey: Guid(835b99819c8e15a47bd4c070196fc241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Sabere/Starting Cards/s3.asset using Guid(835b99819c8e15a47bd4c070196fc241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7eb6118aa07f801cfe3e22295b5f67f') in 0.006294 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016550 seconds.
+  path: Assets/Objects/Cards/Sabere/Starting Cards/s2.asset
+  artifactKey: Guid(f18070cf67271cf45848f86325fa26e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Sabere/Starting Cards/s2.asset using Guid(f18070cf67271cf45848f86325fa26e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80fa030b9eb5120d6236aec8d7fdafef') in 0.006173 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016153 seconds.
+  path: Assets/Objects/Cards/Sabere/Starting Cards/s1.asset
+  artifactKey: Guid(f77807e9d4f1a474c8d1552e87a37c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Sabere/Starting Cards/s1.asset using Guid(f77807e9d4f1a474c8d1552e87a37c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b56bc6f5f7ba7dabbe3ea2aa2ab32eed') in 0.006329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.312664 seconds.
+  path: Assets/Objects/Cards/Longsword/Starting Cards/L17.asset
+  artifactKey: Guid(e7adf4c496b4826488177d760195ceea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Starting Cards/L17.asset using Guid(e7adf4c496b4826488177d760195ceea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2021073b5f716e4ddf334a296a58b98c') in 0.006442 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.032501 seconds.
+  path: Assets/Objects/Cards/Longsword/Starting Cards/L16.asset
+  artifactKey: Guid(47c43b1ebe83df74693b5b86a1626318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Starting Cards/L16.asset using Guid(47c43b1ebe83df74693b5b86a1626318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e85d3d4d29fa2d497f84afde984b25a8') in 0.006420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012688 seconds.
+  path: Assets/Objects/Cards/Longsword/Starting Cards/L15.asset
+  artifactKey: Guid(6458d594d0534de458c10f5201566781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Starting Cards/L15.asset using Guid(6458d594d0534de458c10f5201566781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '105414bda17da19b8acc14444f4280f0') in 0.006445 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.028296 seconds.
+  path: Assets/Objects/Cards/Longsword/Starting Cards/L14.asset
+  artifactKey: Guid(4b00fc465676f8f48b2df4df7ba7be08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Starting Cards/L14.asset using Guid(4b00fc465676f8f48b2df4df7ba7be08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2644e2ee6704f7f6279164816ba096ad') in 0.005883 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.029699 seconds.
+  path: Assets/Objects/Cards/Longsword/Starting Cards/L13.asset
+  artifactKey: Guid(0c11995fde8b17e4bb4ff0303effe679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Starting Cards/L13.asset using Guid(0c11995fde8b17e4bb4ff0303effe679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c44dd3b38ee872ae7d61cdf2c41fa13e') in 0.006441 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007266 seconds.
+  path: Assets/Objects/Cards/Longsword/Starting Cards/L12.asset
+  artifactKey: Guid(c16569630e8ef3741bbf732f95e7082c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Starting Cards/L12.asset using Guid(c16569630e8ef3741bbf732f95e7082c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68397598c8fd56db79a1c7a12bf8e7db') in 0.005956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022084 seconds.
+  path: Assets/Objects/Cards/Longsword/Starting Cards/L11.asset
+  artifactKey: Guid(98d17f91c146e974bbbbe4becefdee5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Starting Cards/L11.asset using Guid(98d17f91c146e974bbbbe4becefdee5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '949755e35c0696e8fbfb4c4ca1c4cf4a') in 0.006355 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.035919 seconds.
+  path: Assets/Objects/Cards/Longsword/Starting Cards/L10.asset
+  artifactKey: Guid(a53cc491326e6fd44a3abd7132410ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Starting Cards/L10.asset using Guid(a53cc491326e6fd44a3abd7132410ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4737e36bb3401c521b0aea4d99261a7') in 0.006735 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009421 seconds.
+  path: Assets/Objects/Cards/Longsword/Starting Cards/L9.asset
+  artifactKey: Guid(7115548f084f95e4a9b2eac7a2609f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Starting Cards/L9.asset using Guid(7115548f084f95e4a9b2eac7a2609f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4d92fec72caae7e88af6c628a5b9acd') in 0.006041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.034952 seconds.
+  path: Assets/Objects/Cards/Longsword/Starting Cards/L8.asset
+  artifactKey: Guid(7bfff6e4f8cc8a54186de2f1ecb10a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Starting Cards/L8.asset using Guid(7bfff6e4f8cc8a54186de2f1ecb10a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1da1116590ed904842991f58c5ccc25') in 0.006196 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.029588 seconds.
+  path: Assets/Objects/Cards/Longsword/Starting Cards/L7.asset
+  artifactKey: Guid(4e7663e8626eb9241a019244e8e920fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Starting Cards/L7.asset using Guid(4e7663e8626eb9241a019244e8e920fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc6eb97558d17cb384fd2620a3148db5') in 0.006165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009940 seconds.
+  path: Assets/Objects/Cards/Longsword/Starting Cards/L6.asset
+  artifactKey: Guid(2f7ef09a8631dd74a9d21ebb04bc1e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Starting Cards/L6.asset using Guid(2f7ef09a8631dd74a9d21ebb04bc1e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '364980093181e571cff08b1f4bcbe1cd') in 0.006714 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021829 seconds.
+  path: Assets/Objects/Cards/Longsword/Starting Cards/L5.asset
+  artifactKey: Guid(7efd9f04616068a4689b29582e372ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Starting Cards/L5.asset using Guid(7efd9f04616068a4689b29582e372ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42c53b8dac011ad2acd9fe29de5a1296') in 0.006160 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016934 seconds.
+  path: Assets/Objects/Cards/Longsword/Starting Cards/L4.asset
+  artifactKey: Guid(77c1d9d1fcc61c0438ff04fed4d36ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Starting Cards/L4.asset using Guid(77c1d9d1fcc61c0438ff04fed4d36ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33925ef7255975263ffdba60a1070aae') in 0.006097 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.031309 seconds.
+  path: Assets/Objects/Cards/Longsword/Starting Cards/L3.asset
+  artifactKey: Guid(e91b79205e32d0b49ba8f77148915b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Starting Cards/L3.asset using Guid(e91b79205e32d0b49ba8f77148915b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5acb924a25c6a789c8f6a8423e94de2') in 0.003436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.029260 seconds.
+  path: Assets/Objects/Cards/Longsword/Starting Cards/L2.asset
+  artifactKey: Guid(7e6d32218de692e4794297ecfc00464b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Starting Cards/L2.asset using Guid(7e6d32218de692e4794297ecfc00464b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '699189426143933810327bff013233e6') in 0.007054 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009235 seconds.
+  path: Assets/Objects/Cards/Longsword/Starting Cards/L1.asset
+  artifactKey: Guid(0c2d932b7d3429141aa90c057adf138d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Starting Cards/L1.asset using Guid(0c2d932b7d3429141aa90c057adf138d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '709badfcfc4ed753eb81c1ec82414a4d') in 0.006647 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.062836 seconds.
+  path: Assets/Objects/Cards/Longsword/Retraining Cards/RL6.asset
+  artifactKey: Guid(beebc5544e5afce4385788e1e41c9ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Retraining Cards/RL6.asset using Guid(beebc5544e5afce4385788e1e41c9ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dde0304880a6f314a1b4b17338883613') in 0.006983 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.036443 seconds.
+  path: Assets/Objects/Cards/Longsword/Retraining Cards/RL5.asset
+  artifactKey: Guid(246d5b39993eec74098caa169c143d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Retraining Cards/RL5.asset using Guid(246d5b39993eec74098caa169c143d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c53eb204c728aeddd7db39ffcd63c834') in 0.006097 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017676 seconds.
+  path: Assets/Objects/Cards/Longsword/Retraining Cards/RL4.asset
+  artifactKey: Guid(ea03d08765913b945a895565063d6848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Retraining Cards/RL4.asset using Guid(ea03d08765913b945a895565063d6848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f3baa6c031b9ace53dd5c04ee13fdb3') in 0.006460 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.086008 seconds.
+  path: Assets/Objects/Cards/Longsword/Retraining Cards/RL1.asset
+  artifactKey: Guid(bc7c7c4f03c8dd94185fc6fa44fd63d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Longsword/Retraining Cards/RL1.asset using Guid(bc7c7c4f03c8dd94185fc6fa44fd63d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f031de49fd08772698b39faa8bda793c') in 0.006363 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.075671 seconds.
+  path: Assets/Objects/Cards/Halberd/Starting Cards/H17.asset
+  artifactKey: Guid(af82c693080ceca4eb29736f8b6877ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Starting Cards/H17.asset using Guid(af82c693080ceca4eb29736f8b6877ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9b079d67fd096e3a4db22b44aa32e00') in 0.006341 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022714 seconds.
+  path: Assets/Objects/Cards/Halberd/Starting Cards/H16.asset
+  artifactKey: Guid(0876b702e53cc8748b47ee3d8ce472d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Starting Cards/H16.asset using Guid(0876b702e53cc8748b47ee3d8ce472d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f72e28d101fb24cb45e91f38e0af0fb') in 0.006146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.031091 seconds.
+  path: Assets/Objects/Cards/Halberd/Starting Cards/H15.asset
+  artifactKey: Guid(3e5d1277b3515bb45b690eabcb4ae64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Starting Cards/H15.asset using Guid(3e5d1277b3515bb45b690eabcb4ae64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e16c2ab0908312d56c181856762aac36') in 0.006396 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.025871 seconds.
+  path: Assets/Objects/Cards/Halberd/Starting Cards/H14.asset
+  artifactKey: Guid(5a70539a6f2468c449ed95209d1ee053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Starting Cards/H14.asset using Guid(5a70539a6f2468c449ed95209d1ee053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '445df96106a84734300952336644c511') in 0.006221 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.025780 seconds.
+  path: Assets/Objects/Cards/Halberd/Starting Cards/H13.asset
+  artifactKey: Guid(33029bcc109b6b049beddf69a70233ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Starting Cards/H13.asset using Guid(33029bcc109b6b049beddf69a70233ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92fd2b3ec0609237d6b11a52005d51f6') in 0.006533 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018450 seconds.
+  path: Assets/Objects/Cards/Halberd/Starting Cards/H12.asset
+  artifactKey: Guid(77004aab9ac1a1941b95d2eff1386bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Starting Cards/H12.asset using Guid(77004aab9ac1a1941b95d2eff1386bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ab96abab7678eb4c7fc88cbcad9e40d') in 0.006731 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008486 seconds.
+  path: Assets/Objects/Cards/Halberd/Starting Cards/H11.asset
+  artifactKey: Guid(6c65cd740c0cf3c4ebecbc2f445f71de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Starting Cards/H11.asset using Guid(6c65cd740c0cf3c4ebecbc2f445f71de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc85f2001c24333bb5d166f66aadf701') in 0.006633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.028462 seconds.
+  path: Assets/Objects/Cards/Halberd/Starting Cards/H10.asset
+  artifactKey: Guid(7dd775efc16ecd146aa016b90418c81f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Starting Cards/H10.asset using Guid(7dd775efc16ecd146aa016b90418c81f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0b5c955cb0e397b8c12cb890421ea55') in 0.006106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.025567 seconds.
+  path: Assets/Objects/Cards/Halberd/Starting Cards/H9.asset
+  artifactKey: Guid(891a85dd160826243adfe1ed851c4da1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Starting Cards/H9.asset using Guid(891a85dd160826243adfe1ed851c4da1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3e9ba5ae7a151648d3c56d14a962631') in 0.006042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017840 seconds.
+  path: Assets/Objects/Cards/Halberd/Starting Cards/H8.asset
+  artifactKey: Guid(faf5a2308ad75d94ba507112c2c66c7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Starting Cards/H8.asset using Guid(faf5a2308ad75d94ba507112c2c66c7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aa99fc338d46d9539ad6795fe0bd063') in 0.006221 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.030695 seconds.
+  path: Assets/Objects/Cards/Halberd/Starting Cards/H7.asset
+  artifactKey: Guid(90092212c516c5747b4e0c849bc05a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Starting Cards/H7.asset using Guid(90092212c516c5747b4e0c849bc05a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1632305c5dcf695c7621fa0422c251f6') in 0.006241 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020413 seconds.
+  path: Assets/Objects/Cards/Halberd/Starting Cards/H6.asset
+  artifactKey: Guid(c096f98a33cf26946b772a37adb71e75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Starting Cards/H6.asset using Guid(c096f98a33cf26946b772a37adb71e75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4ad1b4e0785374df603d7ddbacd1be3') in 0.006996 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014970 seconds.
+  path: Assets/Objects/Cards/Halberd/Starting Cards/H5.asset
+  artifactKey: Guid(142a6ce517b056a48a53b4fcce8b8d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Starting Cards/H5.asset using Guid(142a6ce517b056a48a53b4fcce8b8d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa715415258f671984dc1e95bf00031f') in 0.006801 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.030382 seconds.
+  path: Assets/Objects/Cards/Halberd/Starting Cards/H4.asset
+  artifactKey: Guid(46e410ed6e7ede34e9ec59d6e487c581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Starting Cards/H4.asset using Guid(46e410ed6e7ede34e9ec59d6e487c581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '109e70204a7500c288c506a531c1a9f8') in 0.006139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018947 seconds.
+  path: Assets/Objects/Cards/Halberd/Starting Cards/H3.asset
+  artifactKey: Guid(f3c3d4e87de277b468a456374310c02d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Starting Cards/H3.asset using Guid(f3c3d4e87de277b468a456374310c02d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2fe333ac27518b48fa29b9b7e3f2b45') in 0.005866 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014743 seconds.
+  path: Assets/Objects/Cards/Halberd/Starting Cards/H2.asset
+  artifactKey: Guid(870570afb9061bf49b4d136301c9feea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Starting Cards/H2.asset using Guid(870570afb9061bf49b4d136301c9feea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68e159999b16fe04164fc9c865987c28') in 0.006033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.031869 seconds.
+  path: Assets/Objects/Cards/Halberd/Starting Cards/H1.asset
+  artifactKey: Guid(173b5f803e95fa145aeaf04059827cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Starting Cards/H1.asset using Guid(173b5f803e95fa145aeaf04059827cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6acaf57495a4205f6c99e6142f5c5b08') in 0.006036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.055047 seconds.
+  path: Assets/Objects/Cards/Halberd/Retraining Cards/RH6.asset
+  artifactKey: Guid(fd9301aab89db524499868d85bf80b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Retraining Cards/RH6.asset using Guid(fd9301aab89db524499868d85bf80b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '122505a1b0ff9efc35bf19c381076e00') in 0.006677 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.100882 seconds.
+  path: Assets/Objects/Cards/Halberd/Retraining Cards/RH3.asset
+  artifactKey: Guid(a9a3e6d5d0d28dc47b8df3129e409c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Retraining Cards/RH3.asset using Guid(a9a3e6d5d0d28dc47b8df3129e409c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed1698fb83c1943cd71362eee1758b30') in 0.005816 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021720 seconds.
+  path: Assets/Objects/Cards/Halberd/Retraining Cards/RH2.asset
+  artifactKey: Guid(e5a750405ebca3449862b7f15d057846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Retraining Cards/RH2.asset using Guid(e5a750405ebca3449862b7f15d057846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2eab1d699ae083e036f1e2c4087e0c4') in 0.005928 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.024122 seconds.
+  path: Assets/Objects/Cards/Halberd/Retraining Cards/RH1.asset
+  artifactKey: Guid(c5aa755da51d85f418c5f3267922b444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Halberd/Retraining Cards/RH1.asset using Guid(c5aa755da51d85f418c5f3267922b444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '323216348350f439e4dc68d2cd69ed66') in 0.006141 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.074523 seconds.
+  path: Assets/Objects/Cards/Generic/g3.asset
+  artifactKey: Guid(189c15dce160de74ab25d7f65130c99e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Generic/g3.asset using Guid(189c15dce160de74ab25d7f65130c99e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd919b04fac144fabbace6b269ff664dd') in 0.002418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.028670 seconds.
+  path: Assets/Objects/Cards/Generic/g2.asset
+  artifactKey: Guid(81b4b47a720353c4c9552b984a088955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Generic/g2.asset using Guid(81b4b47a720353c4c9552b984a088955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aafeb6b4132beaaa85540562bdb99c2') in 0.006012 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.026768 seconds.
+  path: Assets/Objects/Cards/Generic/g1.asset
+  artifactKey: Guid(710da869a2f65614baa4e244611dd709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Cards/Generic/g1.asset using Guid(710da869a2f65614baa4e244611dd709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '228bc3b9d4b9c69a2ac3813e2d1dd0f9') in 0.006103 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

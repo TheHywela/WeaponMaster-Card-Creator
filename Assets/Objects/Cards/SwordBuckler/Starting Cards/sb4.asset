@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61c3899fa38c95b4f87ffe0e593f34e9, type: 3}
   m_Name: sb4
   m_EditorClassIdentifier: 
+  isStarter: 1
   id: 
-  weaponType: 0
+  weaponType: 1
   topAction: {fileID: 11400000, guid: ce9a9d29b27c48445ac532c7e9eb93b0, type: 2}
   bottomAction: {fileID: 11400000, guid: 4262cf3138b366d4bb5440bcea9bd761, type: 2}
