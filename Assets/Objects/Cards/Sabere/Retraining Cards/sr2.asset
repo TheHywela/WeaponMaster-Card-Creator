@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 
   weaponType: 4
-  topAction: {fileID: 0}
-  bottomAction: {fileID: 0}
+  topAction: {fileID: 11400000, guid: 82354fb021502be44b25e886ba94a0c3, type: 2}
+  bottomAction: {fileID: 11400000, guid: a52a9eeba23f93540a1b65b081445db1, type: 2}
