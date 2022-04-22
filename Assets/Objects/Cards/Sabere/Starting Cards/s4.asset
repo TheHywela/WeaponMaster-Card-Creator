@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: s4
   m_EditorClassIdentifier: 
   isStarter: 1
-  id: 
+  id: s4
   weaponType: 4
   topAction: {fileID: 11400000, guid: bc6f33116e1b55e4592f9d820ec82ac7, type: 2}
   bottomAction: {fileID: 11400000, guid: 5de42abe24b379446b08b88b1c886a2f, type: 2}

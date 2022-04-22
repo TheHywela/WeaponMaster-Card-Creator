@@ -18,4 +18,4 @@ MonoBehaviour:
   cost: 6
   speed: 3
   description: If the attack failed, the opponent discards 1 card.
-  referenceImage: {fileID: 0}
+  referenceImage: {fileID: 21300000, guid: 873abf6eeb48c54418dfd1bca948b5b8, type: 3}

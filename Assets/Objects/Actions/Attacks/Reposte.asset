@@ -19,4 +19,4 @@ MonoBehaviour:
   speed: 3
   description: Make an Attack. This action can be played after playing a successful
     parry action this turn.
-  referenceImage: {fileID: 0}
+  referenceImage: {fileID: 21300000, guid: e68bbc69e80485d44be5132c1c7a8180, type: 3}

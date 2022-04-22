@@ -18,4 +18,4 @@ MonoBehaviour:
   cost: 3
   speed: 8
   description: '*pay-off* move one space left or right. Your next action has +2 speed.'
-  referenceImage: {fileID: 0}
+  referenceImage: {fileID: 21300000, guid: 5b978b55c7047be4699324c887e05d8e, type: 3}

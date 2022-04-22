@@ -75,7 +75,7 @@ public class CardController : MonoBehaviour
         for (int i = 0; i < deckToPrint.cards.Length; i++)
         {
             ConstructCard(deckToPrint.cards[i]);
-            Capture(deckToPrint.cards[i].id);
+            Capture(deckToPrint.cards[i].name);
             //Print Card to Image File
         }
     }
@@ -99,21 +99,25 @@ public class CardController : MonoBehaviour
         //weapon type icon
         switch(card.weaponType){
             case WEAPON_TYPE.GENERIC:
-                weaponDeckIcon.sprite = genericImage;
+                weaponDeckIcon.enabled = false;
                 break;
 
             case WEAPON_TYPE.SWORDBUCKLER:
+                weaponDeckIcon.enabled = true;
                 weaponDeckIcon.sprite = swordbuckImage;                
                 break;
 
             case WEAPON_TYPE.LONGSWORD:
+                weaponDeckIcon.enabled = true;
                 weaponDeckIcon.sprite = longswordImage;                
                 break;
             case WEAPON_TYPE.HALBERD:
+                weaponDeckIcon.enabled = true;
                 weaponDeckIcon.sprite = halberdImage;                
                 break;
 
             case WEAPON_TYPE.SABRE:
+                weaponDeckIcon.enabled = true;
                 weaponDeckIcon.sprite = sabreImage;                
                 break;
         }

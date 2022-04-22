@@ -9,13 +9,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a1f3b337e75815e4d916c5f8187e403f, type: 3}
+  m_Script: {fileID: 11500000, guid: 61c3899fa38c95b4f87ffe0e593f34e9, type: 3}
   m_Name: sbr4
   m_EditorClassIdentifier: 
+  isStarter: 0
   id: 
-  actionType: 0
-  title: 
-  cost: 
-  speed: 
-  description: 
-  referenceImage: {fileID: 0}
+  weaponType: 1
+  topAction: {fileID: 11400000, guid: 9ccdd043c1ebebb4eb51345db73ed5c7, type: 2}
+  bottomAction: {fileID: 11400000, guid: 739456da389719844b4393f82009551f, type: 2}

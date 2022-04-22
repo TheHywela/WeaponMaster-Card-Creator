@@ -19,4 +19,4 @@ MonoBehaviour:
   speed: 4
   description: 'If the attack failed, Place a marked token on a space next to either
     you or your opponent. '
-  referenceImage: {fileID: 0}
+  referenceImage: {fileID: 21300000, guid: f2ea291b70a084a4eaf7a70f6325515b, type: 3}

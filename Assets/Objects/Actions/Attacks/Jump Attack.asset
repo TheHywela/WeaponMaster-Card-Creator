@@ -18,4 +18,4 @@ MonoBehaviour:
   cost: 5
   speed: 3
   description: If the attack failed, move 1 space
-  referenceImage: {fileID: 0}
+  referenceImage: {fileID: 21300000, guid: 374f7f282a279d84ea9e9c66dbf24387, type: 3}

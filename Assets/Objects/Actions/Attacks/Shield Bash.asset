@@ -21,4 +21,4 @@ MonoBehaviour:
     Abilities next turn.
 
 '
-  referenceImage: {fileID: 0}
+  referenceImage: {fileID: 21300000, guid: e544278dde1e6bc4a97bf05f09773500, type: 3}

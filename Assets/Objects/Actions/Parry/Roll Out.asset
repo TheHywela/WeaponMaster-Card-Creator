@@ -18,4 +18,4 @@ MonoBehaviour:
   cost: 6
   speed: 10
   description: If successful, move 2 spaces and gain 2 momentum
-  referenceImage: {fileID: 21300000, guid: d30d63edc24b15f4b89c7f730b5e23bd, type: 3}
+  referenceImage: {fileID: 21300000, guid: 2b2024f09c16af54c89142e538ec5af9, type: 3}

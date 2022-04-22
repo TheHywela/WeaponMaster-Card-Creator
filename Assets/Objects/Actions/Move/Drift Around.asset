@@ -18,4 +18,4 @@ MonoBehaviour:
   cost: 0
   speed: 6
   description: '*Set-Up* Move 1 space up or down.'
-  referenceImage: {fileID: 0}
+  referenceImage: {fileID: 21300000, guid: 9760e3a3655042b44bab63ed3cd55c7f, type: 3}

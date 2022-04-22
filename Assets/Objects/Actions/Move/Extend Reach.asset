@@ -19,4 +19,4 @@ MonoBehaviour:
   speed: 5
   description: Move 1 space. Place a Marked token on the space you started on. No
     one can move on that space for the rest of the round.
-  referenceImage: {fileID: 0}
+  referenceImage: {fileID: 21300000, guid: e8960e89fbc5bee489accb26f043e364, type: 3}

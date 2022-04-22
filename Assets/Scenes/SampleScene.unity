@@ -2667,7 +2667,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7510983aaff6a064f96b24d87364b833, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2804,8 +2804,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6d36bb858330ba418bc94099171efb2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deckToPrint: {fileID: 11400000, guid: 14a44ceb1b5cfe149a16c73500f5d14a, type: 2}
-  printDirectory: /Output/SwordBuckler
+  deckToPrint: {fileID: 11400000, guid: 673f47539b701f5499fb8b185c151ee7, type: 2}
+  printDirectory: /Output/AllTheCards
   camera: {fileID: 519420031}
   headerTop: {fileID: 254512306}
   actionTypeTop: {fileID: 438436016}

@@ -19,4 +19,4 @@ MonoBehaviour:
   speed: 10
   description: If successful, gain 2 momentum. You may play an additional action
     from your hand
-  referenceImage: {fileID: 0}
+  referenceImage: {fileID: 21300000, guid: dcaccdb44305eb74eb37d4b71c9b2509, type: 3}

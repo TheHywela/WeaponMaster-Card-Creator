@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isStarter: 1
   id: L11
-  weaponType: 0
+  weaponType: 2
   topAction: {fileID: 11400000, guid: 6462832f8206d1b48bda971e938d1e4f, type: 2}
   bottomAction: {fileID: 11400000, guid: 6da2a73711d3c8f41af47b297a0f1d99, type: 2}

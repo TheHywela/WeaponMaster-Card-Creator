@@ -19,4 +19,4 @@ MonoBehaviour:
   speed: 3
   description: Move 1 space. If the move makes you adjacent to your opponent, they
     must discard 1 card from the top of their deck and you draw 1 card.
-  referenceImage: {fileID: 0}
+  referenceImage: {fileID: 21300000, guid: e8960e89fbc5bee489accb26f043e364, type: 3}
