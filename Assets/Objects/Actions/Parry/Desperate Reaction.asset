@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 
   actionType: 3
-  title: 
+  title: Desperate Reaction
   cost: 2
   speed: 10
   description: Parry an attack. You must also spend 2 Inertia tokens.
